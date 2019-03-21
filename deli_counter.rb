@@ -31,3 +31,4 @@ def take_a_number
   counter = 0
   puts " You are #{counter += 1} in line!"
 end
+
