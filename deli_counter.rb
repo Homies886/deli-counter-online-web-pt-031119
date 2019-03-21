@@ -25,3 +25,9 @@ def now_serving(first_in_line)
     first_in_line.shift
   end
 end
+
+
+def take_a_number
+  counter = 0
+  puts " You are #{counter += 1} in line!"
+end
